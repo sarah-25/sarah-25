@@ -33,9 +33,3 @@ I build solutions using:
 * **Publications**: Co-authored survey paper on **Deep Learning for Video Analysis** published in **IEEE Access (2025)**, reviewing 60+ research articles.
 
 ---
-
-## 📈 Activity & Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarah-25&show_icons=true&theme=buefy&count_private=true&hide_border=true&title_color=3776AB&icon_color=3776AB" alt="Sarah's GitHub Stats" />
-</p>
