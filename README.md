@@ -12,7 +12,7 @@ I build solutions using:
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python (Expert), C++, Java, JavaScript (React, Vue, Node), SQL |
+| **Languages** | Python, C++, Java, JavaScript (React, Vue, Node), SQL |
 | **AI/ML** | PyTorch, Hugging Face (Transformers), Computer Vision, Data Pipelines, NLP |
 | **Cloud/Systems** | AWS (Lambda, S3), Google Firebase, Docker, REST APIs, Git |
 
